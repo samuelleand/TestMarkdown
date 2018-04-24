@@ -38,9 +38,8 @@
    - Primeiro subtitulo
      - Segundo subtitulo
     
-  - Escrever em italico e negrito
-     *itálico*
-     **Negrito**
+  - Escrever em *italico* e **negrito**
+
      
    - Listas
    1. Item 1
