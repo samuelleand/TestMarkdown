@@ -36,7 +36,7 @@
   ![Ateliware Logo](https://d1qb2nb5cznatu.cloudfront.net/startups/i/563026-8a3873340452e5767579f5f32200e4e1-medium_jpg.jpg?buster=1419334873)
  - Subtitulos
    - Primeiro subtitulo
-    - Segundo subtitulo
+     - Segundo subtitulo
     
   - Escrever em italico e negrito
      *itálico*
